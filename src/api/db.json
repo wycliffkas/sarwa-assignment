@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Infinity technologies",
+      "balance": 0,
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "name": "Beedez inc",
+      "balance": 40000,
+      "status": "closed"
+    },
+    {
+      "id": 3,
+      "name": "Andela",
+      "balance": 0,
+      "status": "approved"
+    },
+    {
+      "id": 4,
+      "name": "SovTech",
+      "balance": 0,
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "name": "World Travels",
+      "balance": 0,
+      "status": "closed"
+    },
+    {
+      "id": 6,
+      "name": "Next Financials",
+      "balance": 10000,
+      "status": "funded"
+    }
+  ]
+}
